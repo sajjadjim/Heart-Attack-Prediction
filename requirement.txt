@@ -1,0 +1,4 @@
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install matplotlib==3.5.3
