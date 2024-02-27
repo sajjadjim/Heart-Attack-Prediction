@@ -5,9 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 
-
-
-heart_data = pd.read_csv('heart.csv')
+heart_data = pd.read_csv('heart.csv') 
 
 # print(heart_data.hist())
 # print(heart_data.head())
