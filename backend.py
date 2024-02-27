@@ -14,7 +14,7 @@ heart_data = pd.read_csv('heart.csv')
 # heart_data.tail()
 
 # number of rows and columns in the dataset
-# heart_data.shape 
+# heart_data.shape  
 
 
 # getting some info about the data
